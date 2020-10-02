@@ -12,7 +12,7 @@ int main()
 	a.number=8900;
 	cout<<"Enter your areacode,exchange, and number ";
 	cin>>b.area_code>>b.exchange>>b.number;
-	cout<<"My number is ("<<a.area_code<<") "<<a.exchange<<"-"<<a.number<<"\n";
-	cout<<"Your number is ("<<b.area_code<<") "<<b.exchange<<"-"<<b.number;
+	cout<<"My Number is ("<<a.area_code<<") "<<a.exchange<<"-"<<a.number<<"\n";
+	cout<<"Your Number is ("<<b.area_code<<") "<<b.exchange<<"-"<<b.number;
 	return 0;	
 }
